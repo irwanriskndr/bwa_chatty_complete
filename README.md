@@ -1,6 +1,6 @@
-# design_to_code_2
+# BWA Chatty Project
 
-A new Flutter project.
+A Flutter project slicing design form Build with Angga.
 
 ## Getting Started
 
